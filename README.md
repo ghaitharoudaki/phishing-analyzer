@@ -1,8 +1,8 @@
-# 🛡️ PhishGuard — URL Threat Analyzer
+# 🛡️ ThreatLens — URL Threat Analyzer
 
 A full-stack cybersecurity tool that analyzes any URL for phishing, malware, and malicious behavior using real-time threat intelligence from 90+ security engines.
 
-**🔗 Live Demo: [phishing-analyzer.vercel.app](https://phishing-analyzer.vercel.app)**
+**🔗 Live Demo: [ThreatLens.vercel.app](https://threatlens-io.vercel.app)**
 
 ![PhishGuard Screenshot](https://og-image.vercel.app/PhishGuard.png)
 
