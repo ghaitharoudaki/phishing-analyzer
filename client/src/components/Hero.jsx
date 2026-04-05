@@ -9,7 +9,7 @@ export default function Hero() {
               <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
             </svg>
           </div>
-          <span className="font-display font-bold text-white text-lg" style={{ fontFamily: 'Syne, sans-serif' }}>PhishGuard</span>
+          <span className="font-display font-bold text-white text-lg" style={{ fontFamily: 'Syne, sans-serif' }}>ThreatLens</span>
         </div>
         <div className="flex items-center gap-2">
           <span className="w-1.5 h-1.5 rounded-full bg-green-400 pulse-dot" />
